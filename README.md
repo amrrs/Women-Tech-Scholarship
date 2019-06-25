@@ -1,27 +1,32 @@
 # Women-Tech-Scholarship
 Hoping to be collage of Women Tech Scholarships
 
-Facebook Scholarship
+**Facebook Scholarship**
 Apply: http://bit.ly/2WWnvvd
 Deadline: 28th June 2019
-•
-NCWIT Scholarship
+
+
+**NCWIT Scholarship**
 Apply: http://bit.ly/2ZDZCub
 Deadline: 28th June 2019
-•
-Microsoft Windows Insider Women in Computing Award
+
+
+**Microsoft Windows Insider Women in Computing Award**
 Apply here: http://bit.ly/2N4C6VP
 Deadline: 10th July 2019
-•
-Yext Scholarship
+
+
+**Yext Scholarship**
 Apply here: http://bit.ly/2RsZ6fX
 Deadline: 15th July 2019
-•
-Twitter Scholarship
+
+
+**Twitter Scholarship**
 Apply here: http://bit.ly/31Zt6oy
 Deadline: 21st July 2019
-•
-ACM-W Scholarship
+
+
+**ACM-W Scholarship**
 Apply: http://bit.ly/2RtRwRZ
 Deadline: 15th August 2019
 
