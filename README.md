@@ -30,9 +30,3 @@ Apply: http://bit.ly/2RtRwRZ
 Deadline: 15th August 2019
 
 Reference: https://www.linkedin.com/feed/update/urn:li:activity:6549263019346620417/
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
